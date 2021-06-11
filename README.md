@@ -2,11 +2,11 @@
 An attempt to make a very simple, Personal Assistant that understands speech as input and is capable of performing tasks other than conversing. This project is based on python.
 
 # Requirements:
-Make sure you install these packages before moving forward to other python libraries-
+Make sure you install these packages before moving forward -
 
 Individual packages listed as follows-
 
-- ### Apyttsx3 
+- ### pyttsx3 
     `pip install pyttsx3`
 
 - ### Speech Recognition
